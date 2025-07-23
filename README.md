@@ -23,14 +23,14 @@ To address this, I will develop a data-driven solution that:
 ## Data Understanding
 This project entails a dataset derived from Kaggle. It includes:
 
- 1   State     
- 2   Area code                
- 3   Phone number       
- 4   International plan  
- 5   Voice mail plan  
- 6   Number vmail messages 
- 7   Churn
- 8   Customer service calls    
+ 1.   State     
+ 2.   Area code                
+ 3.  Phone number       
+ 4.  International plan  
+ 5. Voice mail plan  
+ 6.   Number vmail messages 
+ 7.   Churn
+ 8.   Customer service calls    
 
 - The dataset includes details on customer behavior, usage metrics, and subscription plans, to predict customer churn
 
